@@ -230,14 +230,14 @@ MonoBehaviour:
   moveSpeed: 3
   runSpeed: 3
   jumpForce: 2.5
-  attackRate: 5
+  attackRate: 2
   attackableLayers:
     serializedVersion: 2
     m_Bits: 256
   attackRadius: 0.5
-  attackDamage: 100
-  running: 1
-  pushing: 1
+  attackDamage: 10
+  running: 0
+  pushing: 0
   curState: 1
   disabled: 0
   healthBarHolder: {fileID: 4337485556607604073}

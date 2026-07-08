@@ -1281,7 +1281,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1024
   attackRadius: 0.5
-  attackDamage: 25
+  attackDamage: 100
   running: 0
   pushing: 0
   curState: 1
@@ -1547,8 +1547,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Health
   _teamID: 0
-  maxHealth: 100
-  startHealth: 100
+  maxHealth: 200
+  startHealth: 200
   invincible: 0
   hasLives: 0
   maxLives: 3
