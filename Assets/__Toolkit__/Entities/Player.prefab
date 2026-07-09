@@ -1276,12 +1276,12 @@ MonoBehaviour:
   moveSpeed: 2
   runSpeed: 5
   jumpForce: 2.5
-  attackRate: 1
+  attackRate: 4
   attackableLayers:
     serializedVersion: 2
     m_Bits: 1024
   attackRadius: 0.5
-  attackDamage: 100
+  attackDamage: 50
   running: 0
   pushing: 0
   curState: 1
@@ -1547,12 +1547,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Health
   _teamID: 0
-  maxHealth: 200
-  startHealth: 200
+  maxHealth: 250
+  startHealth: 250
   invincible: 0
   hasLives: 0
-  maxLives: 3
-  startLives: 3
+  maxLives: 1
+  startLives: 1
 --- !u!1 &7698467572368454262
 GameObject:
   m_ObjectHideFlags: 0

@@ -228,13 +228,13 @@ MonoBehaviour:
   - {fileID: 4037124449677839204}
   - {fileID: 504301732996946570}
   moveSpeed: 3
-  runSpeed: 3
+  runSpeed: 5
   jumpForce: 2.5
-  attackRate: 2
+  attackRate: 5
   attackableLayers:
     serializedVersion: 2
     m_Bits: 256
-  attackRadius: 0.5
+  attackRadius: 1
   attackDamage: 10
   running: 0
   pushing: 0
