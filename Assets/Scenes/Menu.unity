@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: A Very Cool Game
+  m_text: Out think the game
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2169,7 +2169,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Created By - Your Name\nWritten By - Your Name\n\nGame Template By: \nToastid
+  m_text: "Created By - Jay Young\nWritten By - Jay Young\n\nGame Template By: \nToastid
     Waffel & MedievalApple\n(toastidwaffel.com & medievalapple.net)\n\nModels By:\nToastid
     Waffel\nMedieval Apple\nBenjaTheMaker (Unity Asset Store)\nITHappy (Unity Asset
     Store)\nThePolyNestLab (Unity Asset Store)\nDHILRUBA (Unity Asset Store)\n"

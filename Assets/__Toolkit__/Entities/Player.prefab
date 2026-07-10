@@ -1276,12 +1276,12 @@ MonoBehaviour:
   moveSpeed: 2
   runSpeed: 5
   jumpForce: 2.5
-  attackRate: 4
+  attackRate: 1000
   attackableLayers:
     serializedVersion: 2
     m_Bits: 1024
   attackRadius: 0.5
-  attackDamage: 50
+  attackDamage: 1
   running: 0
   pushing: 0
   curState: 1
